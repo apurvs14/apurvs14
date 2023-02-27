@@ -3,17 +3,24 @@
 <h3 align="center">A Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvs14&label=Profile%20views&color=0e75b6&style=flat" alt="apurvs14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurvs14" alt="apurvs14" /></a> </p>
 
-- 🌱 I’m currently learning **SpringBoot, Hibernate, SQL.**
+# 💫 About Me:
+🔭 I’m currently working on Course Management System<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Maven,SpringBoot,Hibernate<br>💬 Ask me about Coding
+- 📫 How to reach me **apurvs1996@gmail.com** -->
+👨‍💻 All of my projects are available at [Portfolio](https://apurvs14.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://apurvs14.github.io/](https://apurvs14.github.io/)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apurv___singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/apurv-singh-bb974519b/) 
 
-- 💬 Ask me about **JAVA, JavaScript**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=apurvs14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=apurvs14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvs14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me **apurvs1996@gmail.com**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link](https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link)
 
