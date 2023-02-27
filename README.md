@@ -9,6 +9,8 @@
 🔭 I’m currently working on Course Management System<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Maven,SpringBoot,Hibernate<br>
 👨‍💻 All of my projects are available at [Portfolio](https://apurvs14.github.io/)
 <br>
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link)
+<br>
 💬 Ask me about Coding
 - 📫 How to reach me **apurvs1996@gmail.com** -->
 
@@ -24,8 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvs14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
