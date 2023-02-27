@@ -6,9 +6,12 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Course Management System<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Maven,SpringBoot,Hibernate<br>💬 Ask me about Coding
-- 📫 How to reach me **apurvs1996@gmail.com** -->
+🔭 I’m currently working on Course Management System<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Maven,SpringBoot,Hibernate<br>
 👨‍💻 All of my projects are available at [Portfolio](https://apurvs14.github.io/)
+<br>
+💬 Ask me about Coding
+- 📫 How to reach me **apurvs1996@gmail.com** -->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apurv___singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/apurv-singh-bb974519b/) 
@@ -22,7 +25,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link](https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
