@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Course Management System<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning Maven,SpringBoot,Hibernate<br>
-👨‍💻 All of my projects are available at [Portfolio](https://apurvs14.github.io/)
+👨‍💻 All of my projects are available at [Portfolio](https://apurvs14.github.io)
 <br>
 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pemp97divh-I-1DAXZ2gidsIcJfJS0bc/view?usp=share_link)
 <br>
